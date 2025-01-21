@@ -6,6 +6,7 @@ Data Preprocessing:
 Handle missing values, if any.
 Encode categorical variables.
 Scale/normalize numerical features.
+
 Decision Tree Classification:
 
 Train a decision tree classifier on the preprocessed dataset.
